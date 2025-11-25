@@ -1,5 +1,5 @@
 # otus_lesson1
-Administrator Linux. Professional
+
 Занятие 1. Обновление ядра системы
 Цель домашнего задания
 Научиться обновлять ядро в ОС Linux.
